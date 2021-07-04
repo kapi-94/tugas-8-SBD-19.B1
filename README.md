@@ -1,8 +1,8 @@
 # tugas-8-SBD-19.B1
 
-Nama  : KAPI
-Nim   : 311910766
-Kelas : TI.19.B1
+<P>Nama  : KAPI</p>
+<p>Nim   : 311910766</p>
+<p>Kelas : TI.19.B1</p>
 
 DESAIN DB :
 
